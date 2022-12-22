@@ -5,7 +5,8 @@
     "nodejs-14_x",
     "postgresql_13",
     "redis",
-    "activemq"
+    "activemq",
+    "nginx"
   ],
   "shell": {
     "init_hook": [
