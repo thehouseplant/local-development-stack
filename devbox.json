@@ -2,11 +2,12 @@
   "packages": [
     "ruby_2_7",
     "bundler",
-    "nodejs-14_x"
+    "nodejs-14_x",
+    "postgresql_13"
   ],
   "shell": {
     "init_hook": [
-      "gem install rails -v '>= 5.2.6, < 7.0'"
+      "gem install rails -v '\u003e= 5.2.6, \u003c 7.0'"
     ]
   },
   "nixpkgs": {
