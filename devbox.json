@@ -4,7 +4,8 @@
     "bundler",
     "nodejs-14_x",
     "postgresql_13",
-    "redis"
+    "redis",
+    "activemq"
   ],
   "shell": {
     "init_hook": [
