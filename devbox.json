@@ -3,7 +3,8 @@
     "ruby_2_7",
     "bundler",
     "nodejs-14_x",
-    "postgresql_13"
+    "postgresql_13",
+    "redis"
   ],
   "shell": {
     "init_hook": [
