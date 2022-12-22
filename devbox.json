@@ -1,6 +1,7 @@
 {
   "packages": [
-    "ruby_2_7"
+    "ruby_2_7",
+    "bundler"
   ],
   "shell": {
     "init_hook": null
