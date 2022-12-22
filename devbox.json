@@ -5,7 +5,9 @@
     "nodejs-14_x"
   ],
   "shell": {
-    "init_hook": null
+    "init_hook": [
+      "gem install rails -v '>= 5.2.6, < 7.0'"
+    ]
   },
   "nixpkgs": {
     "commit": "52e3e80afff4b16ccb7c52e9f0f5220552f03d04"
